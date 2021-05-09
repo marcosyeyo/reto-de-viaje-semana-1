@@ -11,11 +11,13 @@ El producto no ha cambiado, lo que ha cambiado es la forma de consumirlo y los s
 ### Servicios dentro del cloud computing
 
 La tecnología nube está englobada en tres grandes vertientes dependiendo de la manera en la que se comercializa:
+
 ![servicios](https://github.com/marcosyeyo/reto-de-viaje-semana-1/blob/main/imagenes/servicios-cloud-768x277.png)
 
 * **IaaS:** Infraestructura como servicio que el cliente alquila y es totalmente escalable dependiendo de las necesidades.
 * **PaaS:** Plataforma como servicio donde puedes contar con las herramientas adecuadas para el desarrollo en nube evitando sobrecargas de sistema.
 * **SaaS:** Software como servicio que permite el alquiler de licencias dependiendo de las necesidades de cada usuario.
+
 ![servicios](https://github.com/marcosyeyo/reto-de-viaje-semana-1/blob/main/imagenes/cloud.jpg)
 
 ### Tipos de nube
