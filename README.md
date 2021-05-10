@@ -8,6 +8,11 @@ La transformación digital es un hecho y cada vez más se demandan productos y s
 
 El producto no ha cambiado, lo que ha cambiado es la forma de consumirlo y los servicios o productos más rentables se encuentran alojados en la nube.
 
+### ¿Quién utiliza Microsoft Azure?
+El perfil de las empresas que utilizan Microsoft Azure es muy variado, ya que los servicios que se incluyen se dirigen a tipos muy distintos de empresas. Algunos casos prácticos que se han hecho públicos incluyen a empresas que utilizan los servicios de retransmisión y multimedia como la cadena de televisión americana NBC; otros han utilizado el hosting web de Microsoft Azure en conjunto con elementos de seguridad para potenciar sus ventas como Iberia, mientras que EasyJet ha creado una nube híbrida escalable para mejorar el servicio interno. Pearson Education utiliza Azure para desarrollar aplicaciones móviles y analizar los datos recogidos a través de las mismas y de los canales de redes sociales, consiguiendo interpretar esos datos para conocer mejor lo que quieren sus clientes.
+
+Esta es una pequeña muestra, pero hace notar que Microsoft Azure ofrece sólidas opciones para el trabajo en la nube sea como sea su empresa. No obstante, alternativas como Amazon Web Services también cuentan con herramientas y servicios utilizados por compañías como Nokia, Adobe o la NASA, por lo que la decisión sobre cuál es el mejor servicio de infraestructura y plataforma en la nube no está tan claro.
+
 ### Servicios dentro del cloud computing
 
 La tecnología nube está englobada en tres grandes vertientes dependiendo de la manera en la que se comercializa:
@@ -47,3 +52,41 @@ Como su propio nombre indica, este tipo de nube es fruto de una combinación de 
 
 
 * **Administración de identidad y acceso:** La solución Active Directory permite gestionar de forma centralizada y sencilla el control de acceso y la identidad. Esta solución es perfecta para la administración de cuentas y la sincronización con directorios locales.
+
+![servicios](https://github.com/marcosyeyo/reto-de-viaje-semana-1/blob/main/imagenes/1-1.png)
+
+### Ventajas de trabajar en la nube con Azure 
+Los beneficios que ofrece Azure a una empresa que decide contratar alguno de sus planes para trabajar en la nube son: 
+
+* **Almacenamiento y backup seguro en la nube:**
+ Con Azure se dispone de un sistema de almacenamiento de datos en la nube que garantiza la privacidad e integridad de la información. Es una herramienta ideal para guardar la información y disponer de copias de seguridad externas a la empresa. En este apartado, debemos precisar que solo se hace backup de maquinas virtuales y SQL en Azure 
+
+* **Reducción de costes:**
+El modelo de Azure es el del pago por uso, por lo que es posible optimizar los servicios contratados y logra pagar solo por aquello que realmente se va a utilizar. 
+* **Integración con otras plataformas en la nube:** 
+Azure es la nube de Microsoft que se integra con otras soluciones cloud de la empresa como pueden ser Office 365, Teams, Bing o Sharepoint. 
+* **Escalable y accesible.**
+ De forma fácil y sencilla, es posible cambiar las condiciones de Microsoft Azure, aumentando o disminuyendo los servicios contratados. Microsoft Azure proporciona toda la accesibilidad de un entorno cloud a una empresa. 
+
+* **Permite el trabajo híbrido:**
+ Con Azure puede trabajarse conjuntamente en un entorno local y en la nube, facilitando la integración de ambos ambientes para un trabajo más efectivo y seguro.
+
+### Herramientas y servicios de Microsoft Azure
+
+La visión de la nube de Microsoft Azure parece estar orientada al mundo empresarial, tanto aquellas corporaciones de mayor tamaño como a las pequeñas y medianas empresas. Por ello, la mayoría de servicios son escalables y son capaces de responder a necesidades generales del mismo modo que a necesidades más particulares. Azure tiene un amplio abanico de herramientas y servicios que puede ofrecer a los usuarios y que pueden resumirse en las siguientes categorías:
+
+**Servicios para móviles:** creación, desarrollo y gestión de aplicaciones para distintos sistemas operativos móviles, con diferentes lenguajes de programación disponibles.
+
+**Almacenamiento:** diferentes tipos de almacenamiento (SQL, BLOBs, tablas, etc.) para diferentes formatos de archivos o estructuras de almacenaje. También como almacenamiento de los datos de aplicaciones y programas empresariales.
+
+**Herramientas de seguridad:** protocolos, herramientas y opciones complementarias para aumentar la seguridad de sus datos y aplicaciones locales o en la nube. Creación de sistemas de autentificación en varios pasos, recuperación ante desastres mediante copias de seguridad, etc.
+
+**Flujos de trabajo:** procesos de automatización y optimización de flujos de trabajo, tareas y procesos internos de la empresa. Tareas automatizadas a través de Azure y servicios complementarios.
+
+**Máquinas virtuales:** creación, administración y gestión de máquinas virtuales, con gran cantidad de imágenes a elegir en Azure Marketplace.
+
+**Business Intelligence:** recolección y gestión de grandes cantidades de datos para análisis e informes internos. Herramientas de análisis y previsión empresarial.
+
+**Servicios multimedia y retransmisión:** envío y recepción de audio y vídeo, retransmisión a gran escala tanto en directo como con programación pregrabada.
+
+**Redes híbridas y redes privadas:** gestión y creación de redes híbridas y privadas, conexión de aplicaciones empresariales entre distintas redes, ampliación o modificación de la infraestructura interna de la empresa.
