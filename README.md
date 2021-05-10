@@ -1,6 +1,7 @@
 # Reto uno
 
 ### Microsoft Azure 
+![servicios](https://github.com/marcosyeyo/reto-de-viaje-semana-1/blob/main/imagenes/descarga.png)
 
 Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
 La transformación digital es un hecho y cada vez más se demandan productos y servicios que se ajustan a necesidades más concretas. Por esta razón, Microsoft está cambiando su modelo de licenciamiento hacia un sistema más adaptable.
